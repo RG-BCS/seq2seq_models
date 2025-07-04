@@ -47,7 +47,7 @@ We explore and compare the following attention variants described by **Luong et 
 seq2seq-nmt-luong-attention/
     ├── models.py                       # Encoder, Decoder, and Attention implementations
     ├── dataloader_generator.py         # Data loading and preprocessing
-    ├── utils.py                        # Helper functions (tokenization, BLEU eval, etc.)
+    ├── utils.py                        # Training, translation, visualization utilities
     ├── demo_script.py                  # Script to run training and inference
     ├── demo.ipynb                      # Training analysis notebook with examples
     ├── README.md                       # Project summary and insights
