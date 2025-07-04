@@ -90,7 +90,7 @@ seq2seq-nmt-luong-attention/
 
 ---
 ![Training results](train_concat.png)
-![Attention weights](att_concat.png)
+![Attention weights](attn_concat.png)
 ---
 
 
@@ -109,7 +109,7 @@ Training converges steadily, with loss decreasing significantly after the first 
 
 ---
 ![Training results](train_additive.png)
-![Attention weights](att_additive.png)
+![Attention weights](attn_additive.png)
 ---
 
 ## Sample Translations
