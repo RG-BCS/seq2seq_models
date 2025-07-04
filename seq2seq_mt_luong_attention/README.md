@@ -89,7 +89,7 @@ seq2seq-nmt-luong-attention/
 
 ---
 ![Training results](train_dot.png)
-![Attention weights](att_dot.png)
+![Attention weights](attn_dot.png)
 ---
 
 
@@ -105,7 +105,7 @@ seq2seq-nmt-luong-attention/
 
 ---
 ![Training results](train_general.png)
-![Attention weights](att_general.png)
+![Attention weights](attn_general.png)
 ---
 
 
@@ -119,13 +119,11 @@ seq2seq-nmt-luong-attention/
 | 15    | 0.7885 | 1.462             | 1.016             | 15.00      |
 | 19    | 0.7633 | 2.227             | 1.247             | 11.92      |
 
-
-
 Training converges steadily, with loss decreasing significantly after the first 10 epochs.
-```
+
 ---
 ![Training results](train_concat.png)
-![Attention weights](att_concat.png)
+![Attention weights](attn_concat.png)
 ---
 
 ## Sample Translations
